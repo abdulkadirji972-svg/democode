@@ -1,4 +1,7 @@
 # democode
+
 This is my first Git Repository.
 <br>
-Author - Abdul Kadir
+Author - Abdul Kadir(Ali)
+
+
